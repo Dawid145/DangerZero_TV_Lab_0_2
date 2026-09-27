@@ -1,0 +1,10 @@
+Danger Zero TV Lab 0.2
+Application ID: com.dangerzero.tvlab
+Version code: 2
+Version name: 0.2
+Target SDK: 35
+Minimum SDK: 26
+Purpose: local, read-only Android TV diagnostic scanner
+Network permission: absent
+Package deletion/install permissions: absent
+Device Administrator: removed from this diagnostic build
